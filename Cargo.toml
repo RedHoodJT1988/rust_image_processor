@@ -1,0 +1,10 @@
+[package]
+name = "image_processor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.5.20"
+image = "0.25.2"
+indicatif = "0.17.8"
+rayon = "1.10.0"
